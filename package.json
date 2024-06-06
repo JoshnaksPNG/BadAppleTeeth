@@ -1,0 +1,21 @@
+{
+  "name": "badappleteeth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JoshnaksPNG",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "graceful-fs": "^4.2.11",
+    "inquirer": "^9.2.10",
+    "jimp": "^0.22.10",
+    "lodash": "^4.17.21",
+    "videoshow": "^0.1.12"
+  }
+}
